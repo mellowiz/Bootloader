@@ -11,6 +11,7 @@ From Alex Parker's exceptional (and tiny) series of articles:
 
 ## Prerequsites
 [nasm](http://www.nasm.us/)
+
 [QEMU](https://www.qemu.org/)
 
 ## tl;dr
