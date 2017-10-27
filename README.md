@@ -14,5 +14,5 @@ From Alex Parker's exceptional (and tiny) series of articles:
 [QEMU](https://www.qemu.org/)
 
 ## tl;dr
-1. compile - `nasm -f bin &lt;file&gt;.asm -o &lt;file&gt;.bin`
-2. run - `qemu-system-x86_64 -fda &lt;file&gt;.bin`
+1. compile - `nasm -f bin <file>.asm -o <file>.bin`
+2. run - `qemu-system-x86_64 -fda <file>.bin`
